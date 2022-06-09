@@ -1,0 +1,27 @@
+{
+  "name": "start_project",
+  "version": "1.0.0",
+  "description": "learning_node_js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EK-machine/NodeJS_Start_project.git"
+  },
+  "author": "EK-machine",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EK-machine/NodeJS_Start_project/issues"
+  },
+  "homepage": "https://github.com/EK-machine/NodeJS_Start_project#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  },
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1"
+  }
+}
